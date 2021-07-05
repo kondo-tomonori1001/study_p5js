@@ -17,6 +17,9 @@ import { chapter3_sinWave } from './components/chapter3_sinWave';
 // chapter3_sinWave();
 
 import { dotInstall } from './components/dotInstall';
-dotInstall();
+// dotInstall();
+
+import { noiseWave } from './components/noiseWave';
+noiseWave(); 
 
 console.log('hello world');
